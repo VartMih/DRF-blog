@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+media
+db.sqlite3
+pyvenv.cfg
+.idea
+.env
+Lib
+Scripts
